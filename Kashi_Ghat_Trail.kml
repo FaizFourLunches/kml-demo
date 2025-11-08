@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kashi Heritage Ghat Trail</name>
+    <description>Walking route along ten iconic ghats of Varanasi</description>
+
+    <Placemark>
+      <name>Assi Ghat</name>
+      <description>Southernmost ghat; start of the heritage walk</description>
+      <Point><coordinates>83.0094,25.2807</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Shivala Ghat</name>
+      <description>Historic ghat with the 19-century Brij Rama Palace</description>
+      <Point><coordinates>83.0091,25.2883</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Tulsi Ghat</name>
+      <description>Associated with poet Tulsidas</description>
+      <Point><coordinates>83.0088,25.2912</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Harishchandra Ghat</name>
+      <description>Ancient cremation ghat</description>
+      <Point><coordinates>83.0088,25.2958</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Kedar Ghat</name>
+      <description>Popular among South-Indian pilgrims</description>
+      <Point><coordinates>83.0087,25.2992</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Dashashwamedh Ghat</name>
+      <description>Famous for the evening Ganga Aarti</description>
+      <Point><coordinates>83.0090,25.3056</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Manmandir Ghat</name>
+      <description>Features the 17-century observatory built by Man Singh</description>
+      <Point><coordinates>83.0095,25.3073</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Manikarnika Ghat</name>
+      <description>Most sacred cremation site on the Ganga</description>
+      <Point><coordinates>83.0107,25.3171</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Panchganga Ghat</name>
+      <description>Confluence of five mythic rivers</description>
+      <Point><coordinates>83.0115,25.3197</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Raj Ghat</name>
+      <description>Northern end of the trail, near Malviya Bridge</description>
+      <Point><coordinates>83.0145,25.3256</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Walking Route</name>
+      <Style>
+        <LineStyle><color>ff0000ff</color><width>4</width></LineStyle>
+      </Style>
+      <LineString>
+        <coordinates>
+          83.0094,25.2807
+          83.0091,25.2883
+          83.0088,25.2912
+          83.0088,25.2958
+          83.0087,25.2992
+          83.0090,25.3056
+          83.0095,25.3073
+          83.0107,25.3171
+          83.0115,25.3197
+          83.0145,25.3256
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
